@@ -1,4 +1,4 @@
-#KHalig, leitura de dados
+#Khalig, leitura de dados
 
 #Leitura de dados metereológicos
 
