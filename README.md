@@ -1,4 +1,4 @@
-# Khalig, leitura de dados
+# Khalig
 
 Projeto voltado para a análise de dados, dando ênfase, no ínicio, para leituras de dados metereológicos.
 
