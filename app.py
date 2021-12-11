@@ -6,7 +6,9 @@ import pandas as pd
 
 app = dash.Dash(__name__)
 
-df = pd.read_csv("dados.csv")
+url = "https://raw.githubusercontent.com/Khaliglearning/Khalig-Learning/main/dados.csv"
+
+df = pd.read_csv(url)
 
 fig = px.bar(df, x="DT_MEDICAO", y="UMD_INS", barmode="group")
 
