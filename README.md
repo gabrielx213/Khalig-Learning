@@ -6,6 +6,10 @@ Projeto voltado para a análise de dados, dando ênfase, no ínicio, para leitur
 <img src="https://user-images.githubusercontent.com/93950853/140828507-f2764517-2752-4580-8dbd-7ef7852b44f3.png" width="700px" />
 </div>
 
+```
+app.py
+```
+
 
 ### Projeto feito por:
 
