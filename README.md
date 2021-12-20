@@ -5,10 +5,10 @@ Projeto voltado para a análise de dados, dando ênfase, no ínicio, para leitur
 html { 
   background: url(![khalig](https://user-images.githubusercontent.com/93950853/146825495-5c0a27cf-ec9c-4e3a-a81f-7162118a28f9.png)
 ) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: 800px;
+  -moz-background-size: 800px;
+  -o-background-size: 800px;
+  background-size: 800px;
 }
 
 <div align="center">
